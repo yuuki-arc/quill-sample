@@ -174,3 +174,18 @@
 <%function getLinkButton%>
   <span title="Link" class="ql-format-button ql-link"></span>
 <%/function%>
+
+<%*****************************************************************
+  * 画像貼り付け（リンクURL挿入）ボタン
+  *****************************************************************%>
+<%function getImageInsertButton%>
+  <span title="Image" class="ql-format-button ql-image"></span>
+<%/function%>
+
+<%*****************************************************************
+  * 画像貼り付け（ファイルアップロード挿入）ボタン
+  *****************************************************************%>
+<%function getImageUploadButton%>
+  <span title="Image" class="ql-format-button ql-image"></span>
+<%/function%>
+
