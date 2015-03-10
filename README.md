@@ -8,5 +8,5 @@ $ php composer.phar install
 ## Quickstart
 
 ```bash
-$ php -S localhost:3000
+$ php -S localhost:8000 -t public
 ```

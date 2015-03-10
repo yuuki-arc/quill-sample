@@ -11,6 +11,8 @@
 </head>
 <body>
 
+<%include file='quill_modules.tpl'%>
+
 <h2 id="full-example">Full Example</h2>
 
 <p>Uses all the features of Quill, including <a href="/docs/modules/">Modules</a> and <a href="/docs/themes/">Themes</a>.</p>
